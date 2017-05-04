@@ -2,6 +2,8 @@
 *.aux
 *.log
 *.toc
+*.synctex.gz
+*.out
 
 # PDF
 *.pdf
