@@ -4,7 +4,7 @@
 
 ## Analysis Phase of the system produced by Longsword Navigation Module
 
-
+### Note That This Repo is a reorganization of pushes at [Original Phase 4 Repo](https://github.com/KobusMarais/cos301_Longsword_Navigation)
 #### Longsword Navigation Role:
 Navigation will manage the databases for: User Preferences for routes, Custom pins dropped by users, a cache of all recent routes. Navigation also provides an interface for calculating a route. If the route isn't in cache, the GIS module is called to return a calculated route. 
 
