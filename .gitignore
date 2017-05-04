@@ -5,3 +5,9 @@
 
 # PDF
 *.pdf
+
+# Images
+*.PNG
+*.jpg
+*.jpeg
+*.gif
